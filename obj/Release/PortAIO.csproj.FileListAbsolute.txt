@@ -1,6 +1,0 @@
-C:\Users\Administrator\Desktop\ImBizhen\PortAIO-master\obj\Release\PortAIO.Properties.Resources.resources
-C:\Users\Administrator\Desktop\ImBizhen\PortAIO-master\obj\Release\PortAIO.Resources.SPRITES.EloDisplayer.EloDisplayer.resources
-C:\Users\Administrator\Desktop\ImBizhen\PortAIO-master\obj\Release\PortAIO.Resources.TRANSLATIONS.Translation-de-DE.resources
-C:\Users\Administrator\Desktop\ImBizhen\PortAIO-master\obj\Release\PortAIO.Resources.TRANSLATIONS.Translation-en-US.resources
-C:\Users\Administrator\Desktop\ImBizhen\PortAIO-master\obj\Release\PortAIO.Resources.TRANSLATIONS.Translation-fr-FR.resources
-C:\Users\Administrator\Desktop\ImBizhen\PortAIO-master\obj\Release\PortAIO.csproj.GenerateResource.Cache
